@@ -164,8 +164,8 @@ Cancer_Detection/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YousefOsama20/Cancer_Detection.git
-   cd Cancer_Detection
+   git clone https://github.com/AbdoAtef2000/Medical-Image-Classification-using-Deep-Learning-Computer-Vision.git
+   cd Medical-Image-Classification-using-Deep-Learning-Computer-Vision
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -276,9 +276,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Yousef Osama**
+**Abdelrahman Atef**
 
-- GitHub: [@YousefOsama20](https://github.com/YousefOsama20)
+- GitHub: [@AbdoAtef2000](https://github.com/AbdoAtef2000)
 
 ---
 
